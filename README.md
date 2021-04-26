@@ -1,5 +1,10 @@
 # Component Lifecycle
 
+insert $ npm or yarn install then npm or yarn start 
+
+You can see the methods in the console
+
+
 constructor               =====>>>> Immediately before initial rendering
 componentWillMount        =====>>>> Immediately before initial rendering
 componentDidMount         =====>>>> Immediately after initial rendering
